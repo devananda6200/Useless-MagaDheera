@@ -1,96 +1,46 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
-
-# [Project Name] 🎯
-
+# Magadheera Past Life Reveal 🎯
 
 ## Basic Details
-### Team Name: [Name]
-
+### Team Name: Cinematic Coders
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Deva Nanda Nair - Toc H Institute of Science and Technology
+- Abel Kurain - Toc H Institute of Science and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Magadheera Past Life Reveal is a fun browser-based app that uses your webcam to detect your face, replace it with a Magadheera character to reveal “who you were” in a past life, and add your “past lover” beside you — all while the iconic Magadheera title track plays.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People are living their lives without knowing their true past-life Magadheera identity.  
+How can one make important life choices without this crucial information?
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+By blending computer vision with cinematic flair, our app instantly uncovers your Magadheera alter ego and past lover — because everyone deserves to know if they were a sword-wielding warrior in a previous birth.
+
+---
 
 ## Technical Details
 ### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** None (pure browser app)
+- **Libraries:** [face-api.js](https://justadudewhohacks.github.io/face-api.js/), getUserMedia API
+- **Tools:** Vercel (hosting), VS Code
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+#### Installation
+No installation required. Just clone the repo:
+```bash
+git clone https://github.com/devananda6200/Useless-MagaDheera
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
 
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Deva Nanda Nair: Hosting and Frontend
+- Abel Kurian - Camera controls
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
