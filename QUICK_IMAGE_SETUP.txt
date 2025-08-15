@@ -1,0 +1,60 @@
+QUICK MAGADHEERA IMAGE SETUP GUIDE
+===================================
+
+STEP 1: Save Your Images
+------------------------
+From the images you showed me in the chat:
+
+1. Right-click on the WARRIOR image (man with armor)
+   - Save as: "warrior.jpg" or "warrior.png"
+
+2. Right-click on the PRINCESS images (women in costumes)  
+   - Save as: "princess1.jpg", "princess2.jpg", etc.
+
+3. Save all images to your Desktop or Downloads folder
+
+STEP 2: Run the Setup Tool
+--------------------------
+1. Open Command Prompt in the backend folder:
+   cd "e:\MagaD 2\backend"
+
+2. Run the image setup tool:
+   python add_custom_images.py
+
+3. Choose option 1 (Add images one by one)
+
+4. When prompted, drag and drop your image files into the command prompt
+   OR type the full path to each image
+
+STEP 3: Alternative - Manual Method
+-----------------------------------
+If the tool doesn't work, you can manually copy images:
+
+1. Copy your warrior image to: e:\MagaD 2\backend\characters\
+   - Rename it to: Magadheera_Warrior.png
+
+2. Copy your princess images to: e:\MagaD 2\backend\lovers\
+   - Rename them to: Princess_1.png, Princess_2.png, etc.
+
+STEP 4: Test the App
+--------------------
+1. Make sure backend is running:
+   cd "e:\MagaD 2\backend"
+   python app.py
+
+2. Open your browser: http://localhost:3000
+
+3. Test the face replacement!
+
+EXPECTED RESULTS:
+- Your face should be replaced with the warrior character
+- Princess images should appear floating in the corner
+- The transformation should be clearly visible
+
+TROUBLESHOOTING:
+- If images don't appear: Check file names and formats (PNG preferred)
+- If face replacement doesn't work: The fallback system will still overlay images
+- If you get errors: Make sure images are not corrupted and in supported formats
+
+SUPPORTED FORMATS: PNG, JPG, JPEG
+RECOMMENDED: PNG format with transparent backgrounds for best results

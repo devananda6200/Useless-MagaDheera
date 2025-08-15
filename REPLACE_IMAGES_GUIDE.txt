@@ -1,0 +1,63 @@
+MAGADHEERA IMAGE REPLACEMENT GUIDE
+==================================
+
+STEP 1: Save Your Images
+------------------------
+From the images you showed me:
+
+1. WARRIOR IMAGE (the man with armor and mustache):
+   - Right-click and save as "Warrior_Magadheera.png"
+   - This will replace faces in the app
+
+2. PRINCESS IMAGES (the women in traditional costumes):
+   - Save as "Princess_1.png" and "Princess_2.png" 
+   - These will appear as past lovers
+
+STEP 2: Prepare the Images
+--------------------------
+OPTIONAL (for best results):
+- Resize warrior image to around 300x400 pixels
+- Resize princess images to around 200x300 pixels
+- Remove backgrounds if possible (use remove.bg website)
+
+QUICK METHOD:
+- Just save the images as PNG files
+- The app will automatically resize them
+
+STEP 3: Replace the Placeholder Images
+--------------------------------------
+1. Go to: e:\MagaD 2\backend\characters\
+2. Delete the old placeholder files (Warrior1.png, etc.)
+3. Copy your "Warrior_Magadheera.png" here
+
+4. Go to: e:\MagaD 2\backend\lovers\
+5. Delete the old placeholder files (Princess1.png, etc.) 
+6. Copy your "Princess_1.png" and "Princess_2.png" here
+
+STEP 4: Test the App
+-------------------
+1. Restart the backend server:
+   cd "e:\MagaD 2\backend"
+   python app.py
+
+2. Test face detection:
+   python debug_face_detection.py
+
+3. Open the app: http://localhost:3000
+
+STEP 5: Troubleshooting
+----------------------
+If face replacement still doesn't work:
+
+1. Check the backend logs for errors
+2. Make sure images are in PNG format
+3. Try the debug script to see what's happening
+4. The warrior image should completely cover your face
+5. Princess images should appear in the top-right corner
+
+EXPECTED RESULT:
+- Your face gets replaced with the warrior character
+- A princess image appears floating nearby
+- The transformation should be clearly visible
+
+If you need help with any step, let me know what error you're seeing!
