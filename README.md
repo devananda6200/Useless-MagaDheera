@@ -30,17 +30,16 @@ By blending computer vision with cinematic flair, our app instantly uncovers you
 
 #### Installation
 No installation required. Just clone the repo:
-```bash
+
 git clone https://github.com/devananda6200/Useless-MagaDheera
 
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot1](md1.png)
 
 
 ## Team Contributions
 - Deva Nanda Nair: Hosting and Frontend
-- Abel Kurian - Camera controls
+- Abel Kurian : Camera controls
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
