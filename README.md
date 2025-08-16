@@ -2,6 +2,11 @@
 
 # Magadheera Past Life Reveal 🎯
 
+
+Project URL:
+https://face-morpher-jaj62eu9mduavcphlag6ke.streamlit.app/
+
+
 ## Basic Details
 ### Team Name: Cinematic Coders
 
