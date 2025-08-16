@@ -35,7 +35,8 @@ git clone https://github.com/devananda6200/Useless-MagaDheera
 
 
 ![Screenshot1](md1.png)
-
+![Screenshot1](useless2.png)
+![Screenshot1](useless3.png)
 
 ## Team Contributions
 - Deva Nanda Nair: Hosting and Frontend
